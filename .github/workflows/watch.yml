@@ -1,0 +1,34 @@
+name: job-watch
+on:
+  schedule:
+    - cron: "*/10 * * * *"      # fast ATS set (Greenhouse/Lever/Ashby/SmartRecruiters), roughly every 10-15 min in practice
+    - cron: "17 * * * *"        # Workday set, hourly
+  workflow_dispatch:
+    inputs:
+      baseline:
+        description: "true = record everything currently open, alert nothing (run this ONCE first)"
+        default: "false"
+concurrency: { group: job-watch, cancel-in-progress: false }
+permissions: { contents: write }
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run watcher
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          ATS="greenhouse,lever,ashby,smartrecruiters"
+          if [ "${{ github.event.schedule }}" = "17 * * * *" ]; then ATS="workday"; fi
+          if [ "${{ github.event.inputs.baseline }}" = "true" ]; then
+            python3 watch.py --baseline --ats greenhouse,lever,ashby,smartrecruiters,workday
+          else
+            python3 watch.py --ats "$ATS"
+          fi
+      - name: Commit state
+        run: |
+          git config user.name "job-watch"; git config user.email "job-watch@users.noreply.github.com"
+          git add seen.json alerts.md 2>/dev/null || true
+          git diff --cached --quiet || (git commit -m "state $(date -u +%FT%TZ)" && git pull --rebase -q && git push)
