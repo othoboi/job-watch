@@ -1,0 +1,1 @@
+- 2026-10-14 00:50 UTC [UNREAD] **Field AI** — Robotics Research Intern, Embodied AI (Irvine, CA) https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704
