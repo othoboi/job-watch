@@ -34,3 +34,4 @@
 - 2026-10-14 01:19 UTC [NEUTRAL] **Meijer** — Data Science Intern - Summer 2027 (Grand Rapids, MI) https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579
 - 2026-10-14 01:19 UTC [NEUTRAL] **Prologis** — AI Product Management Intern (Denver, Colorado) https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840
 - 2026-10-14 01:19 UTC [NEUTRAL] **Visa** — Risk Intern (PA - Panama City, Panama) https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/PA---Panama-City-Panama/Risk-Intern_REF086150W
+- 2026-10-14 05:44 UTC [NEUTRAL] **NielsenIQ** — Customer Success – Analytics & Insights Intern (Pasig City, 00, ph) https://jobs.smartrecruiters.com/NielsenIQ/744000155414909
