@@ -37,3 +37,4 @@
 - 2026-10-14 05:44 UTC [NEUTRAL] **NielsenIQ** — Customer Success – Analytics & Insights Intern (Pasig City, 00, ph) https://jobs.smartrecruiters.com/NielsenIQ/744000155414909
 - 2026-10-14 06:16 UTC [NEUTRAL] **Rakuten International** — Early Career AI Engineer, Intern (Bellevue, Washington) https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437
 - 2026-10-14 06:16 UTC [NEUTRAL] **Roche** — Data Scientist Intern (Shanghai) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Data-Scientist-Intern_202610-125871-1
+- 2026-10-14 10:39 UTC [NEUTRAL] **Avery Dennison** — Internship: Business Intelligence and Finance Excellence (Oegstgeest, ZH, nl) https://jobs.smartrecruiters.com/AveryDennison/744000155457544
