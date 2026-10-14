@@ -35,3 +35,5 @@
 - 2026-10-14 01:19 UTC [NEUTRAL] **Prologis** — AI Product Management Intern (Denver, Colorado) https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840
 - 2026-10-14 01:19 UTC [NEUTRAL] **Visa** — Risk Intern (PA - Panama City, Panama) https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/PA---Panama-City-Panama/Risk-Intern_REF086150W
 - 2026-10-14 05:44 UTC [NEUTRAL] **NielsenIQ** — Customer Success – Analytics & Insights Intern (Pasig City, 00, ph) https://jobs.smartrecruiters.com/NielsenIQ/744000155414909
+- 2026-10-14 06:16 UTC [NEUTRAL] **Rakuten International** — Early Career AI Engineer, Intern (Bellevue, Washington) https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437
+- 2026-10-14 06:16 UTC [NEUTRAL] **Roche** — Data Scientist Intern (Shanghai) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/Data-Scientist-Intern_202610-125871-1
