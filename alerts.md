@@ -45,3 +45,6 @@
 - 2026-10-14 12:02 UTC [NEUTRAL] **LEGO** — Model Design Internship, LEGO DESiGN () https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Model-Design-Internship--LEGO-DESiGN_0000039471
 - 2026-10-14 12:02 UTC [NEUTRAL] **NVIDIA** — Data Processing Developer Technology Intern - 2027 (4 Locations) https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708
 - 2026-10-14 12:02 UTC [NEUTRAL] **PricewaterhouseCoopers (PwC)** — Internship in Governance Risk and Compliance - Financial Services 2026-2027 (Brussels) https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Brussels/Internship-in-Governance-Risk-and-Compliance---Financial-Services-2026-2027_760187WD
+- 2026-10-14 15:31 UTC [NEUTRAL] **Point72** — 2027 Summer Internship - Fundamental Researcher, Canvas (New York, NY) https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002
+- 2026-10-14 15:31 UTC [NEUTRAL] **Point72** — 2027 Summer Internship - Sector Analyst, Proprietary Research (New York, NY) https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002
+- 2026-10-14 15:31 UTC [NEUTRAL] **The Brattle Group** — Research Associate Intern (San Francisco, California, United States) https://job-boards.greenhouse.io/thebrattlegroup/jobs/4743566005
