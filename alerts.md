@@ -112,3 +112,4 @@
 - 2026-10-15 19:15 UTC [NEUTRAL] **Vialto Partners** — Global Mobility Tax - Winter Intern - Boston (Boston) https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Boston/Global-Mobility-Tax---Winter-Intern---Boston_REQ908937-1
 - 2026-10-15 19:15 UTC [NEUTRAL] **Vialto Partners** — Global Mobility Tax - Winter Intern- Atlanta (GA - Remote) https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/GA---Remote/Global-Mobility-Tax---Winter-Intern--Atlanta_REQ908934
 - 2026-10-15 19:15 UTC [NEUTRAL] **Vialto Partners** — Global Mobility Tax - Winter Intern- Stamford (Stamford) https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Stamford/Global-Mobility-Tax---Winter-Intern--Stamford_REQ908936
+- 2026-10-15 22:16 UTC [NEUTRAL] **Duolingo** — Data Scientist, Intern (Pittsburgh, PA; New York, NY) https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002
