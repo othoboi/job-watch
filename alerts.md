@@ -87,3 +87,5 @@
 - 2026-10-15 04:48 UTC [NEUTRAL] **Marsh** — Intern - Risk Management (Penang) (George Town - Lebuh) https://mmc.wd1.myworkdayjobs.com/mmc/job/George-Town---Lebuh/Intern---Risk-Management--Penang-_R_369110-1
 - 2026-10-15 04:48 UTC [NEUTRAL] **Marsh** — Intern - Risk Management (Penang) (George Town - Lebuh) https://mmc.wd1.myworkdayjobs.com/MMC/job/George-Town---Lebuh/Intern---Risk-Management--Penang-_R_369110-1
 - 2026-10-15 04:48 UTC [NEUTRAL] **Sun Life** — Risk Management Intern (Jul - Dec 2027 Placement) (Hunghom, Kowloon, Hong Kong) https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Risk-Management-Intern--Jul---Dec-2027-Placement-_JR00121344
+- 2026-10-15 10:02 UTC [NEUTRAL] **DXC Technology** — Business Intelligence (BI) Intern (MYS - PETALING JAYA) https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MYS---PETALING-JAYA/Business-Intelligence--BI--Intern_51591002
+- 2026-10-15 10:02 UTC [NEUTRAL] **NXP Semiconductors** — AI Software developer - Intern (Brno) https://nxp.wd3.myworkdayjobs.com/careers/job/Brno/AI-Software-developer---Intern_R-10064017-1
