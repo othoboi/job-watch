@@ -175,3 +175,6 @@
 - 2026-10-16 23:41 UTC [NEUTRAL] **Invesco** — Quantitative Intern - Portfolio Engineering and Analytics (Boston, Massachusetts) https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-1
 - 2026-10-16 23:41 UTC [NEUTRAL] **Invesco** — Quantitative Strategies Research Intern (New York, New York) https://invesco.wd1.myworkdayjobs.com/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1
 - 2026-10-16 23:41 UTC [NEUTRAL] **Invesco** — Quantitative Intern - Portfolio Engineering and Analytics (Boston, Massachusetts) https://invesco.wd1.myworkdayjobs.com/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2
+- 2026-10-16 23:48 UTC [NEUTRAL] **QuEra Computing** — QPU Build Co-Op – Optics & Data Analysis (Boston, MA  USA) https://job-boards.greenhouse.io/queracomputinginc/jobs/5455950008
+- 2026-10-16 23:48 UTC [NEUTRAL] **Together AI** — Research Intern, Frontier Speculative Decoding (Summer 2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5267198007
+- 2026-10-16 23:48 UTC [NEUTRAL] **Together AI** — Research Intern, Frontier Speculative Decoding (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5267197007
