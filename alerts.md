@@ -170,3 +170,4 @@
 - 2026-10-16 21:16 UTC [NEUTRAL] **Varian** — Billing Data Analyst Intern (OAV N) https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/OAV-N/Billing-Data-Analyst-Intern_R-31164
 - 2026-10-16 21:16 UTC [NEUTRAL] **Zoetis** — Research Intern - Computational Biology Intern (US CO Remote) https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-CO-Remote/Research-Intern---Computational-Biology-Intern_JR00021812-2
 - 2026-10-16 21:16 UTC [NEUTRAL] **Zoetis** — Chemistry Data Science Intern - Digital CMC Workflows (Kalamazoo - Downtown Portage Street) https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2
+- 2026-10-16 21:29 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Mandatory Internship in Strategic Purchasing of Logistic Transport Services (Stuttgart, BW, de) https://jobs.smartrecruiters.com/BoschGroup/744000155984519
