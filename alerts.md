@@ -138,3 +138,7 @@
 - 2026-10-16 12:33 UTC [NEUTRAL] **CME Group** — Third Party Risk Management Belfast Intern 2027-2028 (Belfast - Millennium House) https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Third-Party-Risk-Management-Belfast-Intern-2027-2028_34915
 - 2026-10-16 12:33 UTC [NEUTRAL] **ING** — Internship in Interest Rate Risk (Warszawa (Pańska 97)) https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Internship-in-Interest-Rate-Risk_REQ-10123300
 - 2026-10-16 12:33 UTC [NEUTRAL] **ING** — Machine Learning Engineer Intern (MILAN) https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304
+- 2026-10-16 14:16 UTC [NEUTRAL] **Eurofins** — Internship in Data Visualization and Interactive Analytics- Sensory & Consumer Research (Aix-en-Provence, Provence-Alpes-Côte d'Azur, fr) https://jobs.smartrecruiters.com/Eurofins/744000155963509
+- 2026-10-16 14:16 UTC [NEUTRAL] **Northwestern Mutual** — Analytics Internship (Milwaukee, WI, us) https://jobs.smartrecruiters.com/NorthwesternMutual/85751677
+- 2026-10-16 14:16 UTC [NEUTRAL] **Northwestern Mutual** — Information Risk Management Internship (Milwaukee, WI, us) https://jobs.smartrecruiters.com/NorthwesternMutual/85751519
+- 2026-10-16 14:16 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Modeling and Simulation of Heat Pump Systems (Wernau (Neckar), BW, de) https://jobs.smartrecruiters.com/BoschGroup/744000155976242
