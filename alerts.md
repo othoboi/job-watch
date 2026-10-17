@@ -179,3 +179,4 @@
 - 2026-10-16 23:48 UTC [NEUTRAL] **Together AI** — Research Intern, Frontier Speculative Decoding (Summer 2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5267198007
 - 2026-10-16 23:48 UTC [NEUTRAL] **Together AI** — Research Intern, Frontier Speculative Decoding (Winter 2027) (San Francisco) https://job-boards.greenhouse.io/togetherai/jobs/5267197007
 - 2026-10-17 17:26 UTC [POSITIVE] **Clera** — Computer Vision & Robotics Intern (San Francisco) https://jobs.ashbyhq.com/clera/697c2212-e39d-4e6e-92c2-12e6603a61d0
+- 2026-10-17 21:44 UTC [NEUTRAL] **Eulerity** — AI Intern - Office of CEO & Head of Product (New York, NY) https://job-boards.greenhouse.io/eulerity/jobs/4722871006
