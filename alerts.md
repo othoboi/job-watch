@@ -191,3 +191,4 @@
 - 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2
 - 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-1
 - 2026-10-19 07:53 UTC [NEUTRAL] **KLA Corporation** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2
+- 2026-10-19 08:26 UTC [NEUTRAL] **Western Digital** — Intern - Data Analytics (Biñan City, LAGUNA, ph) https://jobs.smartrecruiters.com/WesternDigital/744000156226285
