@@ -214,3 +214,8 @@
 - 2026-10-19 15:49 UTC [NEUTRAL] **Robert Bosch Venture Capital** — AI Research Intern: Wireless Foundation Models (Pittsburgh, PA, us) https://jobs.smartrecruiters.com/BoschGroup/744000156323136
 - 2026-10-19 15:49 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Mandatory Internship Strategic Purchasing of Logistic Transport Services (Stuttgart, BW, de) https://jobs.smartrecruiters.com/BoschGroup/744000156288349
 - 2026-10-19 15:49 UTC [NEUTRAL] **Syngenta Group** — Vegetable Seed Field Production Research Intern (Pasco, Washington, us) https://jobs.smartrecruiters.com/SyngentaGroup/744000156341708
+- 2026-10-19 20:51 UTC [POSITIVE] **The Allen Institute for AI** — Research Internship, Robotics (Seattle, WA) https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641
+- 2026-10-19 20:51 UTC [NEUTRAL] **Celonis** — Intern Applied AI Solution Consulting (Italy) (Milan, Italy) https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003
+- 2026-10-19 20:51 UTC [NEUTRAL] **Legend Biotech** — Data Intern (Bridgewater, New Jersey, United States) https://job-boards.greenhouse.io/legendcareers/jobs/4745118005
+- 2026-10-19 20:51 UTC [NEUTRAL] **Scale AI** — Machine Learning Research Intern (Summer 2027) (New York, NY; San Francisco, CA) https://job-boards.greenhouse.io/scaleai/jobs/4735665005
+- 2026-10-19 20:51 UTC [NEUTRAL] **The Allen Institute for AI** — Research Internship, AI for Science (Seattle, WA) https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615
