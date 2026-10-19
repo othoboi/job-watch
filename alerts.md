@@ -209,3 +209,8 @@
 - 2026-10-19 15:43 UTC [NEUTRAL] **Marsh** — AI Engineer Intern (Gurugram - Good Earth) https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556
 - 2026-10-19 15:43 UTC [NEUTRAL] **Philips** — IT AI Solution Analyst Intern (Shanghai) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IT-AI-Solution-Analyst-Intern_593976-1
 - 2026-10-19 15:43 UTC [NEUTRAL] **PricewaterhouseCoopers (PwC)** — Data Analyst - Intern - Financial Crime team (Prague) https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Prague/Data-Analyst---Intern---Financial-Crime-team_768785WD
+- 2026-10-19 15:49 UTC [NEUTRAL] **Bracebridge Capital** — Northeastern University Software Engineer - Business Intelligence Co-op (Boston) https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005
+- 2026-10-19 15:49 UTC [NEUTRAL] **Experian** — AI Developer Intern (Cyberjaya, Selangor, my) https://jobs.smartrecruiters.com/Experian/744000156347739
+- 2026-10-19 15:49 UTC [NEUTRAL] **Robert Bosch Venture Capital** — AI Research Intern: Wireless Foundation Models (Pittsburgh, PA, us) https://jobs.smartrecruiters.com/BoschGroup/744000156323136
+- 2026-10-19 15:49 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Mandatory Internship Strategic Purchasing of Logistic Transport Services (Stuttgart, BW, de) https://jobs.smartrecruiters.com/BoschGroup/744000156288349
+- 2026-10-19 15:49 UTC [NEUTRAL] **Syngenta Group** — Vegetable Seed Field Production Research Intern (Pasco, Washington, us) https://jobs.smartrecruiters.com/SyngentaGroup/744000156341708
