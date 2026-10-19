@@ -182,3 +182,12 @@
 - 2026-10-17 21:44 UTC [NEUTRAL] **Eulerity** — AI Intern - Office of CEO & Head of Product (New York, NY) https://job-boards.greenhouse.io/eulerity/jobs/4722871006
 - 2026-10-18 21:54 UTC [NEUTRAL] **DiDi Global** — Research Intern, Scene Understanding and Planning (San Jose, CA) https://job-boards.greenhouse.io/didi/jobs/8299748
 - 2026-10-18 21:54 UTC [NEUTRAL] **ExodusPoint** — Quant Credit Intern - PA (Hybrid) - December 2026 (Wynnewood, PA) https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002
+- 2026-10-19 07:53 UTC [POSITIVE] **Johnson & Johnson** — Quality Data Science Co-Op , Summer 2027 (Cincinnati, Ohio, United States of America) https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629
+- 2026-10-19 07:53 UTC [POSITIVE] **Johnson & Johnson** — Quality Data Science Co-Op , Summer 2027 (Cincinnati, Ohio, United States of America) https://jj.wd5.myworkdayjobs.com/jj/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629
+- 2026-10-19 07:53 UTC [NEUTRAL] **Dentsu** — data Intern (2 Locations) https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Beijing/data-Intern_R1131312
+- 2026-10-19 07:53 UTC [NEUTRAL] **Jones Lang LaSalle (JLL)** — Data Compliance Review Associate (Intern) (Gurugram, HR) https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Data-Compliance-Review-Associates_REQ535205
+- 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-1
+- 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280
+- 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2
+- 2026-10-19 07:53 UTC [NEUTRAL] **KLA** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-1
+- 2026-10-19 07:53 UTC [NEUTRAL] **KLA Corporation** — Tax & Data Analytics Intern (Ann Arbor, MI) https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2
