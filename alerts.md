@@ -284,3 +284,5 @@
 - 2026-10-20 20:42 UTC [NEUTRAL] **Sony** — Research Engineer Intern (Ethical Creative and Protective AI Lab) (7 Locations) https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Engineering-Intern--AI-Ethics-_JR-119784
 - 2026-10-20 20:42 UTC [NEUTRAL] **Tencent** — Consumer Insights Intern (US-California-Los Angeles) https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Consumer-Insights-Intern_R108279
 - 2026-10-20 20:42 UTC [NEUTRAL] **The Hartford ** — 2027 Summer Intern - Rotational (IT, Operations, Risk, and Fund Treasury) (Wayne, PA) https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Wayne-PA/XMLNAME-2027-Summer-Intern---Rotational--IT--Operations--Risk--and-Fund-Treasury-_R2627500
+- 2026-10-20 21:56 UTC [NEUTRAL] **Illumio** — Security Research Intern (Sunnyvale, California - HQ) https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260
+- 2026-10-20 21:56 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Driving Foundations Research Intern (Sunnyvale, CA, us) https://jobs.smartrecruiters.com/BoschGroup/744000156648989
