@@ -273,3 +273,5 @@
 - 2026-10-20 17:15 UTC [NEUTRAL] **Roche** — Internship – Agentic AI for Environmental Regulatory Compliance (Basel) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819
 - 2026-10-20 17:15 UTC [NEUTRAL] **Sanofi** — internship 6 months data and ia engineer (Lyon) https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938
 - 2026-10-20 17:15 UTC [NEUTRAL] **Sony** — Data Quality & Systems Intern - Student Placement Year (Weybridge) https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/Data-Quality---Systems-Intern---Student-Placement-Year_JR-119746-1
+- 2026-10-20 18:45 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Policy Data Analyst Intern - Empire Center for Public Policy (New York) https://jobs.lever.co/standtogether/35deb481-fc0b-4513-abf5-68880006189b
+- 2026-10-20 18:45 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Research Intern - Citizens Against Government Waste (Washington, DC) https://jobs.lever.co/standtogether/88915a0e-ac42-46d6-bb23-a5149af1110f
