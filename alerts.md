@@ -229,3 +229,4 @@
 - 2026-10-19 21:10 UTC [NEUTRAL] **Loblaw Companies** — Applied Machine Learning - Co-op Student (1 Presidents Choice Circle, Brampton, ON) https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Applied-Machine-Learning---Co-op-Student_R2000697038
 - 2026-10-19 21:10 UTC [NEUTRAL] **Maricopa Association of Governments** — Socioeconomic Data Intern (Phoenix, AZ) https://azmag.wd108.myworkdayjobs.com/magcareers/job/Phoenix-AZ/Socioeconomic-Data-Intern_JR24
 - 2026-10-19 21:10 UTC [NEUTRAL] **Symbotic** — Intern- Robot Manipulation (USA Wilmington,  MA - HQ) https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robot-Manipulation_R8278
+- 2026-10-20 00:05 UTC [NEUTRAL] **Point72** — Quantitative Developer Intern (New York) https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002
