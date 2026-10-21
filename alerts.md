@@ -316,3 +316,4 @@
 - 2026-10-21 15:22 UTC [NEUTRAL] **Rakuten International** — Intern - Software Engineer, AI User Experience (WA-Bellevue) https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/WA-Bellevue/Intern---Software-Engineer--AI-User-Experience_1033171
 - 2026-10-21 15:22 UTC [NEUTRAL] **Revvity** — AI Applications DevOps Intern (Mumbai) https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766
 - 2026-10-21 15:22 UTC [NEUTRAL] **Revvity** — Full-Stack AI Engineering Intern (Mumbai) https://revvity.wd103.myworkdayjobs.com/External/job/Mumbai/Full-Stack-AI-Engineering-Intern_JR-045768
+- 2026-10-21 19:19 UTC [NEUTRAL] **KnowBe4** — AI Customer Success Intern (Clearwater, Florida) https://job-boards.greenhouse.io/knowbe4/jobs/8903101002
