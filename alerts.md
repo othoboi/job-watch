@@ -294,3 +294,4 @@
 - 2026-10-20 23:58 UTC [NEUTRAL] **National Laboratory of the Rockies** — Graduate Intern – Advanced Building Equipment Research Group (Golden, CO) https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---Advanced-Building-Equipment-Research-Group_R14567
 - 2026-10-20 23:58 UTC [NEUTRAL] **Rakuten International** — Intern - Software Engineer, AI User Experience (San Mateo, California) https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171
 - 2026-10-20 23:58 UTC [NEUTRAL] **Zillow** — Applied Scientist (Economics) Intern (Seattle-WA-2nd Ave) https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1
+- 2026-10-21 00:22 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Business Mobility (Petaling Jaya, my) https://jobs.smartrecruiters.com/BoschGroup/744000156456939
