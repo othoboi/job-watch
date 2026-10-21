@@ -337,3 +337,4 @@
 - 2026-10-21 20:16 UTC [NEUTRAL] **Northwestern Mutual** — Public Investments Quantitative Analyst Intern, Summer 2027 (Milwaukee, WI Corporate) https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807
 - 2026-10-21 20:16 UTC [NEUTRAL] **Rochester Regional Health** — RIT Co-op: Data Engineer (Riedman Campus) https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425
 - 2026-10-21 20:16 UTC [NEUTRAL] **The New School** — Zolberg Institute on Migration and Mobility Post-Doctoral Fellowship (B - 65 West 11th Street) https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Zolberg-Institute-on-Migration-and-Mobility-Post-Doctoral-Fellowship_JR109707
+- 2026-10-21 22:35 UTC [NEUTRAL] **Sezzle** — Risk & Disputes Intern  (Peru) https://job-boards.greenhouse.io/sezzle/jobs/8040748003
