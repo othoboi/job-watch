@@ -295,3 +295,5 @@
 - 2026-10-20 23:58 UTC [NEUTRAL] **Rakuten International** — Intern - Software Engineer, AI User Experience (San Mateo, California) https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171
 - 2026-10-20 23:58 UTC [NEUTRAL] **Zillow** — Applied Scientist (Economics) Intern (Seattle-WA-2nd Ave) https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1
 - 2026-10-21 00:22 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Business Mobility (Petaling Jaya, my) https://jobs.smartrecruiters.com/BoschGroup/744000156456939
+- 2026-10-21 05:07 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.) (Ovar, pt) https://jobs.smartrecruiters.com/BoschGroup/744000156523049
+- 2026-10-21 05:07 UTC [NEUTRAL] **Shield AI** — Summer 2027 - Data Science Intern (R6324) (San Diego, California) https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797
