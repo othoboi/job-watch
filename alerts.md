@@ -297,3 +297,4 @@
 - 2026-10-21 00:22 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Business Mobility (Petaling Jaya, my) https://jobs.smartrecruiters.com/BoschGroup/744000156456939
 - 2026-10-21 05:07 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Extracurricular Internship: AI-Assisted Software Engineering Intern (f/m/div.) (Ovar, pt) https://jobs.smartrecruiters.com/BoschGroup/744000156523049
 - 2026-10-21 05:07 UTC [NEUTRAL] **Shield AI** — Summer 2027 - Data Science Intern (R6324) (San Diego, California) https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797
+- 2026-10-21 10:07 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Calibration Process Optimization Intern (8 months/40 hours per week) (Farmington Hills, MI, us) https://jobs.smartrecruiters.com/BoschGroup/744000156585075
