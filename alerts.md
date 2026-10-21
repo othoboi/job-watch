@@ -299,3 +299,4 @@
 - 2026-10-21 05:07 UTC [NEUTRAL] **Shield AI** — Summer 2027 - Data Science Intern (R6324) (San Diego, California) https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797
 - 2026-10-21 10:07 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Calibration Process Optimization Intern (8 months/40 hours per week) (Farmington Hills, MI, us) https://jobs.smartrecruiters.com/BoschGroup/744000156585075
 - 2026-10-21 10:16 UTC [NEUTRAL] **JINGDONG** — Internship Transportation Operation (DEU-North Rhine-Westphalia-Duisburg) https://jd.wd103.myworkdayjobs.com/Campus_Career_Site/job/DEU-North-Rhine-Westphalia-Duisburg/Internship-Transportation-Operation_JR104444
+- 2026-10-21 15:14 UTC [NEUTRAL] **WPP Media** — Intern, Content Analytics, Italy (Milan, Italy) https://job-boards.greenhouse.io/wppmedia/jobs/5443361008
