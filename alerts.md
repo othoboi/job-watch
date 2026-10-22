@@ -346,3 +346,5 @@
 - 2026-10-22 04:56 UTC [NEUTRAL] **LSEG** — Research Intern (Mandarin) (MYS-Penang-One Precinct) https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Penang-One-Precinct/Research-Intern--Mandarin-_R0123750
 - 2026-10-22 04:56 UTC [NEUTRAL] **LSEG** — Research Intern (Mandarin) (MYS-Penang-One Precinct) https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Penang-One-Precinct/Research-Intern--Mandarin-_R0123749
 - 2026-10-22 10:18 UTC [NEUTRAL] **Uline** — Database Administrator Internship - Summer 2027 (5 Locations) https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538
+- 2026-10-22 10:40 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Intern for Transport - Outbound Deliveries (Beograd, rs) https://jobs.smartrecruiters.com/BoschGroup/744000157047159
+- 2026-10-22 10:40 UTC [NEUTRAL] **Sika** — ESG Digitalization Intern – Software & Data Engineering (Zürich, ZH, ch) https://jobs.smartrecruiters.com/SikaAG/744000157078341
