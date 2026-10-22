@@ -358,3 +358,4 @@
 - 2026-10-22 15:40 UTC [NEUTRAL] **National Information Solutions Cooperative** — Intern - Operations Analytics Implementations (Any NISC Location) https://job-boards.greenhouse.io/nisc/jobs/8312757
 - 2026-10-22 15:40 UTC [NEUTRAL] **Schonfeld** — 2027 Index Rebalancing Quantitative Research Intern (Hong Kong, Hong Kong) https://job-boards.greenhouse.io/schonfeld/jobs/8311597
 - 2026-10-22 15:40 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Data Analysis Intern - Open The Books (Florida) https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c
+- 2026-10-22 19:31 UTC [NEUTRAL] **Grassroots Analytics** — Campaigns Data Services Intern | Spring 2027 (Washington, District of Columbia, United States) https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4723837006
