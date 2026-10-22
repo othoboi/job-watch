@@ -368,3 +368,6 @@
 - 2026-10-22 20:13 UTC [NEUTRAL] **Insperity** — Rotational AI Intern (Kingwood, TX) https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103460
 - 2026-10-22 20:13 UTC [NEUTRAL] **Insperity** — Rotational Data Analytics Intern (Kingwood, TX) https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Data-Analytics-Intern_JR103458
 - 2026-10-22 20:13 UTC [NEUTRAL] **Trimble** — People Development AI & Digital Learning Intern (US - CO, Westminster) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819
+- 2026-10-22 22:46 UTC [POSITIVE] **Rivian and Volkswagen Group Technologies** — Data Engineering Intern - AI & Analytics (Summer 2027) (Palo Alto, California) https://jobs.ashbyhq.com/rivianvw.tech/7967cd44-5469-48b8-b69f-f036e4098464
+- 2026-10-22 22:46 UTC [NEUTRAL] **Man Group** — Systematic Quant Intern (Boston; Massachusetts) https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101
+- 2026-10-22 22:46 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Policy Research Intern - Bluegrass Institute (Kentucky) https://jobs.lever.co/standtogether/4e19b85f-fcb3-437a-9e7e-b6eaed65f356
