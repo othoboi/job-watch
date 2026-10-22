@@ -353,3 +353,8 @@
 - 2026-10-22 15:25 UTC [NEUTRAL] **Roche** — Internship - Data and Digital Enablement (PRLABD) (Penzberg) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3
 - 2026-10-22 15:25 UTC [NEUTRAL] **Roche** — Internship in AI for Laboratory Automation (Pharma Research & Early Development) (Basel) https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship-in-AI-for-Laboratory-Automation--Pharma-Research---Early-Development-_202610-125772
 - 2026-10-22 15:25 UTC [NEUTRAL] **Zeiss** — Internship Strategic Programs & Negotiations | AI Productivity & Automation (f/m/x) (Jena) https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Praktikum-Strategic-Programs---Negotiations---AI-Productivity---Automation--m-w-x-_JR_1052118-1
+- 2026-10-22 15:40 UTC [POSITIVE] **1Password** — Developer Intern, Data Security - Winter 2027 (Remote (United States | Canada)) https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1
+- 2026-10-22 15:40 UTC [NEUTRAL] **InfiniteQuant** — Quantitative Researcher - Internship - Summer 2027 (New York, NY, us) https://jobs.smartrecruiters.com/InfiniteQuant/744000157170821
+- 2026-10-22 15:40 UTC [NEUTRAL] **National Information Solutions Cooperative** — Intern - Operations Analytics Implementations (Any NISC Location) https://job-boards.greenhouse.io/nisc/jobs/8312757
+- 2026-10-22 15:40 UTC [NEUTRAL] **Schonfeld** — 2027 Index Rebalancing Quantitative Research Intern (Hong Kong, Hong Kong) https://job-boards.greenhouse.io/schonfeld/jobs/8311597
+- 2026-10-22 15:40 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Data Analysis Intern - Open The Books (Florida) https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c
