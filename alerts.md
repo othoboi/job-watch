@@ -345,3 +345,4 @@
 - 2026-10-22 04:56 UTC [NEUTRAL] **LSEG** — Research Intern (Mandarin) (MYS-Penang-One Precinct) https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Penang-One-Precinct/Research-Intern--Mandarin-_R0123751
 - 2026-10-22 04:56 UTC [NEUTRAL] **LSEG** — Research Intern (Mandarin) (MYS-Penang-One Precinct) https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Penang-One-Precinct/Research-Intern--Mandarin-_R0123750
 - 2026-10-22 04:56 UTC [NEUTRAL] **LSEG** — Research Intern (Mandarin) (MYS-Penang-One Precinct) https://lseg.wd3.myworkdayjobs.com/Careers/job/MYS-Penang-One-Precinct/Research-Intern--Mandarin-_R0123749
+- 2026-10-22 10:18 UTC [NEUTRAL] **Uline** — Database Administrator Internship - Summer 2027 (5 Locations) https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538
