@@ -405,3 +405,7 @@
 - 2026-10-23 19:20 UTC [NEUTRAL] **MSIG USA ** — Risk Management Intern (NY-NYC (Ave of Americas)) https://msigna.wd5.myworkdayjobs.com/gbl/job/NY-NYC-Ave-of-Americas/Risk-Management-Intern_JR-001112
 - 2026-10-23 19:20 UTC [NEUTRAL] **Nike** — Converse AI Enablement Graduate Internship (Boston, Massachusetts) https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Converse-AI-Enablement-Graduate-Internship_R-96256
 - 2026-10-23 19:20 UTC [NEUTRAL] **Smithfield Foods** — Production Research Intern - NC (Warsaw, NC) https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Warsaw-NC/Production-Research-Intern---NC_R-2026-15015
+- 2026-10-23 19:44 UTC [POSITIVE] **Flagship Pioneering** — ProFound Therapeutics: AI/ML Engineering - SAGE Platform Co-Op (Cambridge, MA USA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911276002
+- 2026-10-23 19:44 UTC [POSITIVE] **Flagship Pioneering** — ProFound Therapeutics: Bioinformatics Data Engineering Co-Op (Cambridge, MA USA) https://job-boards.greenhouse.io/fspco-op012325/jobs/8911245002
+- 2026-10-23 19:44 UTC [NEUTRAL] **ID.me** — Summer Intern 2027 - Analytics Engineer Intern (Mountain View, CA ) https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003
+- 2026-10-23 19:44 UTC [NEUTRAL] **Multiply Labs** — Robotics Software Intern (San Francisco) https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586
