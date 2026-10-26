@@ -444,3 +444,6 @@
 - 2026-10-26 20:35 UTC [NEUTRAL] **Rocket Mortgage** — Risk Intelligence Intern - Summer 2027 (Detroit, MI) https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Risk-Intelligence-Intern---Summer-2027_R-084802
 - 2026-10-26 20:35 UTC [NEUTRAL] **Rocket Mortgage** — Vendor Risk Intern - Summer 2027 (Cypress Waters - 8950 Cypress Waters Blvd) https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Cypress-Waters---8950-Cypress-Waters-Blvd/Vendor-Risk-Intern---Summer-2027_R-084816
 - 2026-10-26 20:35 UTC [NEUTRAL] **Valmont** — Operations Data Analyst Intern (Valley NE) https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Operations-Data-Analyst-Intern_R29224
+- 2026-10-26 21:45 UTC [NEUTRAL] **AbbVie** — 2027 Automation & Process Analytics Technology Co-Op (June - Dec) (Worcester, MA, us) https://jobs.smartrecruiters.com/AbbVie/3743990016414967
+- 2026-10-26 21:45 UTC [NEUTRAL] **Lila Sciences** — Co-Op, Agentic Simulations for Materials Science (Cambridge, MA USA; San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4465059009
+- 2026-10-26 21:45 UTC [NEUTRAL] **Schonfeld** — 2027 Data Science Intern (New York, New York, United States) https://job-boards.greenhouse.io/schonfeld/jobs/8171692
