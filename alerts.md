@@ -420,3 +420,4 @@
 - 2026-10-23 22:24 UTC [NEUTRAL] **Sun Life** — Data Science Intern - Summer 2027 Intern (Wellesley Hills, Massachusetts) https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666
 - 2026-10-25 19:43 UTC [NEUTRAL] **Genuine Parts Company** — Product Pricing Analytics Intern - Summer 2027 (Atlanta, GA, USA) https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663
 - 2026-10-26 00:21 UTC [NEUTRAL] **Skydio** — Autonomy Engineer Intern, 2027 (San Mateo, California, United States) https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b
+- 2026-10-26 06:22 UTC [NEUTRAL] **PricewaterhouseCoopers (PwC)** — IT Intern – Digital & Data Services (Hanoi) https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/IT-Intern---Digital---Data-Services_769892WD
