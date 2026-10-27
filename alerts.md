@@ -459,3 +459,5 @@
 - 2026-10-27 00:53 UTC [NEUTRAL] **Toyota Research Institute** — Robotics Intern, Post-Training and Continual Learning (Los Altos, CA) https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43
 - 2026-10-27 00:53 UTC [NEUTRAL] **Toyota Research Institute** — Robotics Intern, Trustworthy Learning under Uncertainty (Los Altos, CA) https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424
 - 2026-10-27 00:53 UTC [NEUTRAL] **Toyota Research Institute** — Robotics Intern, World Foundation Models (Los Altos, CA) https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478
+- 2026-10-27 06:22 UTC [NEUTRAL] **Motorola** — Pricing & Analytics Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Pricing---Analytics-Intern_R70031
+- 2026-10-27 06:22 UTC [NEUTRAL] **Motorola Solutions** — Pricing & Analytics Intern (Penang, Malaysia) https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Penang-Malaysia/Pricing---Analytics-Intern_R70031
