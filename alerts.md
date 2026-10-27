@@ -472,3 +472,10 @@
 - 2026-10-27 13:19 UTC [NEUTRAL] **Visa** — Data Science Intern, Data and AI Team – Summer 2027 (US - Foster City, CA) https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1
 - 2026-10-27 13:19 UTC [NEUTRAL] **Visa** — Data Science Intern, Data and AI Team – Summer 2027 (US - Foster City, CA) https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W
 - 2026-10-27 13:19 UTC [NEUTRAL] **Zeiss** — Internship in AI & Machine Learning (f/m/x) (Karlsruhe) https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317
+- 2026-10-27 16:50 UTC [NEUTRAL] **Atoms** — AI Research Intern  (BS/MS) (Mountain View, CA) https://job-boards.greenhouse.io/cssmerge/jobs/8919606002
+- 2026-10-27 16:50 UTC [NEUTRAL] **Atoms** — AI Research Intern  (BS/MS) (Mountain View, CA) https://job-boards.greenhouse.io/atoms/jobs/8919596002
+- 2026-10-27 16:50 UTC [NEUTRAL] **EQT Corporation** — AI Intern (Remote) https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008
+- 2026-10-27 16:50 UTC [NEUTRAL] **Lila Sciences** — Co-Op, AI Nucleic Acid Design (San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4465061009
+- 2026-10-27 16:50 UTC [NEUTRAL] **Lila Sciences** — Co-Op, Robot Perception & State Estimation (Cambridge, MA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4467398009
+- 2026-10-27 16:50 UTC [NEUTRAL] **Schonfeld** — 2027 AI Forward Deployed Engineer Intern (Hong Kong, Hong Kong) https://job-boards.greenhouse.io/schonfeld/jobs/8311595
+- 2026-10-27 16:50 UTC [NEUTRAL] **Snowflake** — Software Engineer Intern AI/ML - Warsaw (2027) (PL-Warsaw-Lixa C) https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215
