@@ -557,3 +557,5 @@
 - 2026-10-28 21:44 UTC [NEUTRAL] **T-Mobile** — Summer 2027 Assoc AI Engineer Internship (2 Locations) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492
 - 2026-10-28 21:44 UTC [NEUTRAL] **T-Mobile** — Summer 2027 Assoc AI Engineer Internship (2 Locations) https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492
 - 2026-10-28 21:44 UTC [NEUTRAL] **Valmont** — AI & Data Engineering Intern (Omaha NE) https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310
+- 2026-10-28 23:00 UTC [NEUTRAL] **Schonfeld** — 2027 Enterprise AI Intern (New York, New York, United States) https://job-boards.greenhouse.io/schonfeld/jobs/8171694
+- 2026-10-28 23:00 UTC [NEUTRAL] **SharkNinja** — Spring 2027: Consumer Insights Co-op, Shark (January to June) (Needham, MA, United States) https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006
