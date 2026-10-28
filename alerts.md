@@ -517,3 +517,4 @@
 - 2026-10-28 06:18 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Business Mobility (Petaling Jaya, my) https://jobs.smartrecruiters.com/BoschGroup/744000157950479
 - 2026-10-28 09:46 UTC [NEUTRAL] **Logitech** — (Spring Internship) Gaming Haptic Research Intern (Hsinchu, Taiwan) https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/XMLNAME--Spring-Internship--Gaming-Haptic-Research-Intern_148616
 - 2026-10-28 09:46 UTC [NEUTRAL] **Logitech** — (Spring Internship) Lighting Algorithm Research Intern (Hsinchu, Taiwan) https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/XMLNAME--Spring-Internship--Lighting-Algorithm-Research-Intern_148617
+- 2026-10-28 13:21 UTC [NEUTRAL] **Engineers Gate** — Quantitative Finance Intern (Quantitative Finance Intern) https://job-boards.greenhouse.io/engineersgate/jobs/8328653
