@@ -513,3 +513,5 @@
 - 2026-10-28 00:31 UTC [NEUTRAL] **Samsung** — Intern, Power-Thermal Simulation Software Engineer (San Jose, California, United States) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003
 - 2026-10-28 00:31 UTC [NEUTRAL] **Samsung** — Intern, RTL Power Macromodeling Engineer (San Jose, California, United States) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003
 - 2026-10-28 00:31 UTC [NEUTRAL] **Samsung** — Intern, Thermal Modeling & Simulation Engineer (AI Memory / HBM) (San Jose, California, United States) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003
+- 2026-10-28 06:18 UTC [NEUTRAL] **GrayMatter Robotics** — Robotics Engineering Intern: Systems & Applications - IMMEDIATE START (Los Angeles - HQ) https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320
+- 2026-10-28 06:18 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Internship in Business Mobility (Petaling Jaya, my) https://jobs.smartrecruiters.com/BoschGroup/744000157950479
