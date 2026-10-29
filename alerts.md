@@ -562,3 +562,4 @@
 - 2026-10-29 01:52 UTC [NEUTRAL] **ASML** — Internship/Co-Op: Data Engineer (San Diego, CA, USA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626
 - 2026-10-29 01:52 UTC [NEUTRAL] **Kraft Heinz** — Data Analyst Intern (2 Locations) https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Nijmegen/Data-Analyst-Intern_R-108038-2
 - 2026-10-29 01:52 UTC [NEUTRAL] **Kraft Heinz** — Data Analyst Intern (2 Locations) https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Data-Analyst-Intern_R-108038
+- 2026-10-29 02:16 UTC [NEUTRAL] **Stand Together** — KAP 2027-2028 - Education Policy Research Fellow - Show-Me Institute (Missouri) https://jobs.lever.co/standtogether/5ac9b82b-3783-4044-b29f-9dbcb7a425e2
