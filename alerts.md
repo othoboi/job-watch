@@ -569,3 +569,7 @@
 - 2026-10-29 08:35 UTC [NEUTRAL] **PricewaterhouseCoopers (PwC)** — Actuarial Science Intern (Bermuda) https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bermuda/Actuarial-Science-Intern_770348WD
 - 2026-10-29 08:45 UTC [NEUTRAL] **IFS** — AI & Automation Intern (Colombo, WESTERN PROVINCE, lk) https://jobs.smartrecruiters.com/IFS1/744000158435309
 - 2026-10-29 08:45 UTC [NEUTRAL] **USAFacts** — AI & Software Engineering Intern (Bellevue, WA) https://job-boards.greenhouse.io/usafacts/jobs/4472154009
+- 2026-10-29 15:37 UTC [NEUTRAL] **Keyrock** — Innovation Quant Developer: Intern - DeFi/Corporate Development (Brussels) https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7
+- 2026-10-29 15:37 UTC [NEUTRAL] **Keyrock** — DeFi Quant Trader Intern (Credit) (Brussels) https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24
+- 2026-10-29 15:37 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Mandatory Internship in Agentic AI Harness, Generative AI & Agentic Workflows (Schwieberdingen, BW, de) https://jobs.smartrecruiters.com/BoschGroup/744000158528363
+- 2026-10-29 15:37 UTC [NEUTRAL] **Syngenta Group** — Data Scientist Intern (Raleigh, NC, us) https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415
