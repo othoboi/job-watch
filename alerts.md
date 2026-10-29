@@ -567,3 +567,5 @@
 - 2026-10-29 08:35 UTC [NEUTRAL] **Medtronic** — Intern: Finance & Data Analytics (Prague, Hlavni Mesto Praha, Czech Republic) https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Intern--Finance---Data-Analytics_R77370
 - 2026-10-29 08:35 UTC [NEUTRAL] **Medtronic** — Intern: Finance & Data Analytics (Prague, Hlavni Mesto Praha, Czech Republic) https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Prague-Hlavni-MestoPraha-Czech-Republic/Intern--Finance---Data-Analytics_R77370-1
 - 2026-10-29 08:35 UTC [NEUTRAL] **PricewaterhouseCoopers (PwC)** — Actuarial Science Intern (Bermuda) https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Bermuda/Actuarial-Science-Intern_770348WD
+- 2026-10-29 08:45 UTC [NEUTRAL] **IFS** — AI & Automation Intern (Colombo, WESTERN PROVINCE, lk) https://jobs.smartrecruiters.com/IFS1/744000158435309
+- 2026-10-29 08:45 UTC [NEUTRAL] **USAFacts** — AI & Software Engineering Intern (Bellevue, WA) https://job-boards.greenhouse.io/usafacts/jobs/4472154009
