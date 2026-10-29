@@ -559,3 +559,6 @@
 - 2026-10-28 21:44 UTC [NEUTRAL] **Valmont** — AI & Data Engineering Intern (Omaha NE) https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/AI---Data-Engineering-Intern_R29310
 - 2026-10-28 23:00 UTC [NEUTRAL] **Schonfeld** — 2027 Enterprise AI Intern (New York, New York, United States) https://job-boards.greenhouse.io/schonfeld/jobs/8171694
 - 2026-10-28 23:00 UTC [NEUTRAL] **SharkNinja** — Spring 2027: Consumer Insights Co-op, Shark (January to June) (Needham, MA, United States) https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4724022006
+- 2026-10-29 01:52 UTC [NEUTRAL] **ASML** — Internship/Co-Op: Data Engineer (San Diego, CA, USA) https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626
+- 2026-10-29 01:52 UTC [NEUTRAL] **Kraft Heinz** — Data Analyst Intern (2 Locations) https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Nijmegen/Data-Analyst-Intern_R-108038-2
+- 2026-10-29 01:52 UTC [NEUTRAL] **Kraft Heinz** — Data Analyst Intern (2 Locations) https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Data-Analyst-Intern_R-108038
