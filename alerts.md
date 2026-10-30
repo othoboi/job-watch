@@ -638,3 +638,10 @@
 - 2026-10-30 18:24 UTC [NEUTRAL] **Astera Labs** — SG&A AI Implementation Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749403005
 - 2026-10-30 18:24 UTC [NEUTRAL] **Fussball Club Cincinnati LLC (“FC Cincinnati”)** — Data Analyst Intern  (Cincinnati, OH) https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003
 - 2026-10-30 18:24 UTC [NEUTRAL] **Toyota Research Institute** — Machine Learning/Agentic AI Intern (Cambridge, MA) https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
+- 2026-10-30 19:31 UTC [POSITIVE] **Salesforce** — AI Labs Summer Internship, Emerging Talent (2 Locations) https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248
+- 2026-10-30 19:31 UTC [POSITIVE] **Salesforce** — AI Labs Summer Internship, Emerging Talent (2 Locations) https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/AI-Labs-Summer-Internship--Emerging-Talent_JR366248-2
+- 2026-10-30 19:31 UTC [NEUTRAL] **American Family Insurance Group** — AMFAM - 2027 Summer GenAI/ML Intern (2 Locations) https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561
+- 2026-10-30 19:31 UTC [NEUTRAL] **Boston Medical Center** — Post-Doctoral Research Fellow, Infectious Diseases (Boston) https://bmc.wd1.myworkdayjobs.com/BMC/job/Boston/Post-Doctoral-Research-Fellow--Infectious-Diseases_52137-1
+- 2026-10-30 19:31 UTC [NEUTRAL] **Cisco** — Data Analyst I (Intern) - United States (3 Locations) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1
+- 2026-10-30 19:31 UTC [NEUTRAL] **Thermo Fisher Scientific** — Manufacturing Data Analyst - Internship (Monza, Italy) https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Manufacturing-Data-Analyst---Internship_R-01374107
+- 2026-10-30 19:31 UTC [NEUTRAL] **Visa** — Risk Intern (PA - Panama City, Panama) https://visa.wd5.myworkdayjobs.com/Visa/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1
