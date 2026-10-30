@@ -645,3 +645,5 @@
 - 2026-10-30 19:31 UTC [NEUTRAL] **Cisco** — Data Analyst I (Intern) - United States (3 Locations) https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1
 - 2026-10-30 19:31 UTC [NEUTRAL] **Thermo Fisher Scientific** — Manufacturing Data Analyst - Internship (Monza, Italy) https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Monza-Italy/Manufacturing-Data-Analyst---Internship_R-01374107
 - 2026-10-30 19:31 UTC [NEUTRAL] **Visa** — Risk Intern (PA - Panama City, Panama) https://visa.wd5.myworkdayjobs.com/Visa/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1
+- 2026-10-30 22:34 UTC [NEUTRAL] **Lila Sciences** — Co-Op, AI-Driven Equation Discovery (Cambridge, MA USA; San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4469152009
+- 2026-10-30 22:34 UTC [NEUTRAL] **Toyota Research Institute** — Multi-scale Physics Battery Modeling Intern (Los Altos, CA) https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593
