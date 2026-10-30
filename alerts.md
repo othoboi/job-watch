@@ -623,3 +623,5 @@
 - 2026-10-30 06:10 UTC [NEUTRAL] **Astera** — Robotics Systems Intern (Emeryville HQ) https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8
 - 2026-10-30 06:10 UTC [NEUTRAL] **Western Digital** — Internship - Data Engineering  (Petaling Jaya, Selangor, my) https://jobs.smartrecruiters.com/WesternDigital/744000158655189
 - 2026-10-30 07:14 UTC [NEUTRAL] **Logitech** — Spring Internship, Value Engineering Analytics Intern (Hsinchu, Taiwan) https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship--Value-Engineering-Analytics-Intern_148640
+- 2026-10-30 12:52 UTC [NEUTRAL] **Lila Sciences** — Co-Op, Bayesian Methods for Complex Decision Making (Cambridge, MA USA; San Francisco, CA USA) https://job-boards.greenhouse.io/lilasciences/jobs/4469148009
+- 2026-10-30 12:52 UTC [NEUTRAL] **Robert Bosch Venture Capital** — [Internship Program Q1 2027] AI Engineer Intern (Ho Chi Minh, vn) https://jobs.smartrecruiters.com/BoschGroup/744000158674030
