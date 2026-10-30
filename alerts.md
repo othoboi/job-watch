@@ -633,3 +633,8 @@
 - 2026-10-30 14:17 UTC [NEUTRAL] **Thales** — Internship- Agentic AI to support Web UI and API testing (Praha) https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/STAGE---Agentic-AI-to-support-Web-UI-and-API-testing---H-F_R0344862
 - 2026-10-30 14:17 UTC [NEUTRAL] **Thermo Fisher Scientific** — Software Engineering / AI Engineering Intern (Eindhoven, Netherlands) https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1
 - 2026-10-30 14:17 UTC [NEUTRAL] **Varian** — AI Apprentice (PUN MIC T 4) https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/PUN-MIC-T-4/AI-Apprentice_R-29719
+- 2026-10-30 18:24 UTC [NEUTRAL] **Apex Companies** — Transportation Engineering Co-op (Spring 2027) (Quincy, MA) https://job-boards.greenhouse.io/apexcompanies/jobs/5459108008
+- 2026-10-30 18:24 UTC [NEUTRAL] **Astera Labs** — AI Product Management Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749404005
+- 2026-10-30 18:24 UTC [NEUTRAL] **Astera Labs** — SG&A AI Implementation Intern (San Jose, CA) https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4749403005
+- 2026-10-30 18:24 UTC [NEUTRAL] **Fussball Club Cincinnati LLC (“FC Cincinnati”)** — Data Analyst Intern  (Cincinnati, OH) https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003
+- 2026-10-30 18:24 UTC [NEUTRAL] **Toyota Research Institute** — Machine Learning/Agentic AI Intern (Cambridge, MA) https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
