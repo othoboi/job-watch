@@ -614,3 +614,4 @@
 - 2026-10-29 21:13 UTC [NEUTRAL] **PSP Investments** — Intern, Market Data Vendors (January - April 2027) (Montreal) https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--Market-Data-Vendors--January---April-2027-_R5036
 - 2026-10-29 21:13 UTC [NEUTRAL] **T-Mobile** — Summer 2027 Assoc AI Engineer Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484
 - 2026-10-29 21:13 UTC [NEUTRAL] **T-Mobile** — Summer 2027 Assoc AI Engineer Internship (Overland Park, Kansas) https://tmobile.wd1.myworkdayjobs.com/external/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484
+- 2026-10-30 00:24 UTC [NEUTRAL] **Smiths Detection Group** — Data Intern (Cuautitlán Izcalli, ESTADO DE MÉXICO, mx) https://jobs.smartrecruiters.com/SmithsGroup2/744000158614699
