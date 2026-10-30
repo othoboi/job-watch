@@ -622,3 +622,4 @@
 - 2026-10-30 01:06 UTC [NEUTRAL] **Walmart** — (USA) Summer 2027 Corporate Intern:  Data & Tech Transformation intern ((USA) Always AR Bentonville Home Office) https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/XMLNAME--USA--Summer-2027-Corporate-Intern---Data---Tech-Transformation-intern_R-2690457-1
 - 2026-10-30 06:10 UTC [NEUTRAL] **Astera** — Robotics Systems Intern (Emeryville HQ) https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8
 - 2026-10-30 06:10 UTC [NEUTRAL] **Western Digital** — Internship - Data Engineering  (Petaling Jaya, Selangor, my) https://jobs.smartrecruiters.com/WesternDigital/744000158655189
+- 2026-10-30 07:14 UTC [NEUTRAL] **Logitech** — Spring Internship, Value Engineering Analytics Intern (Hsinchu, Taiwan) https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship--Value-Engineering-Analytics-Intern_148640
