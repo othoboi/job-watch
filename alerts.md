@@ -658,3 +658,4 @@
 - 2026-10-30 23:53 UTC [NEUTRAL] **Revvity** — Full-stack AI Developer Intern (CAD Remote – ON) https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045794
 - 2026-10-30 23:53 UTC [NEUTRAL] **Revvity** — Full-stack AI Developer Intern (CAD Remote – ON) https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045795
 - 2026-10-30 23:53 UTC [NEUTRAL] **VSP Vision** — Internship, AI – Agentic & Machine Learning Development (Remote US) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072
+- 2026-10-31 07:55 UTC [NEUTRAL] **Sierra** — Research Intern (San Francisco, CA) https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081
