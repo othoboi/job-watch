@@ -660,3 +660,6 @@
 - 2026-10-30 23:53 UTC [NEUTRAL] **VSP Vision** — Internship, AI – Agentic & Machine Learning Development (Remote US) https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072
 - 2026-10-31 07:55 UTC [NEUTRAL] **Sierra** — Research Intern (San Francisco, CA) https://jobs.ashbyhq.com/Sierra/ef896ee9-e903-4a1f-84c2-537373cb9081
 - 2026-10-31 12:39 UTC [NEUTRAL] **Tencent** — Tencent Cloud – Business Development Intern (Gen AI & Cloud, 3 months), Malaysia (Malaysia-Kuala Lumpur) https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Malaysia-Kuala-Lumpur/Tencent-Cloud---Business-Development-Interns--Malaysia-_R107835
+- 2026-11-02 06:13 UTC [NEUTRAL] **ASML** — Algorithm Internship (Shenzhen, China) https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shenzhen-China/Algorithm-Internship_J-00356619
+- 2026-11-02 06:13 UTC [NEUTRAL] **GE Aerospace** — Artificial Intelligence Intern (Remote) https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042294-1
+- 2026-11-02 06:13 UTC [NEUTRAL] **GE Aerospace** — Artificial Intelligence Intern (Remote) https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Artificial-Intelligence-Intern_R5042291-1
