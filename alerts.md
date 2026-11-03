@@ -725,3 +725,8 @@
 - 2026-11-03 15:16 UTC [NEUTRAL] **Lloyds Bank** — Applied Data and AI Apprentice - Birmingham (Birmingham) https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Birmingham/Applied-Data-and-AI-Apprentice---Birmingham_165591
 - 2026-11-03 15:16 UTC [NEUTRAL] **Lloyds Bank** — Applied Data and AI Apprentice - Bristol (Bristol) https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Applied-Data-and-AI-Apprentice---Bristol_165590
 - 2026-11-03 15:16 UTC [NEUTRAL] **Lloyds Bank** — Actuarial Apprentice - Bristol (Bristol) https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Actuarial-Apprentice---Bristol_164871
+- 2026-11-03 16:35 UTC [NEUTRAL] **Robert Bosch Venture Capital** — Undergraduate Placement Year 2027 – Planning & Insights Intern (Worcester, England, gb) https://jobs.smartrecruiters.com/BoschGroup/744000159366700
+- 2026-11-03 16:35 UTC [NEUTRAL] **Robert Bosch Venture Capital** — [Internship Program Q1 2027] AI Engineer Intern (Ho Chi Minh, vn) https://jobs.smartrecruiters.com/BoschGroup/744000159329040
+- 2026-11-03 16:35 UTC [NEUTRAL] **Stand Together** — KIP Spring 2027 - Development Intern - Media Research Center (Virginia) https://jobs.lever.co/standtogether/bb40ab53-7c43-4884-b4ff-81b3d60facf6
+- 2026-11-03 16:35 UTC [NEUTRAL] **The New York Times** — Advertising Business Data Analyst Intern (New York, NY) https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005
+- 2026-11-03 16:35 UTC [NEUTRAL] **Toyota Research Institute** — Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern (Los Altos, CA) https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418
