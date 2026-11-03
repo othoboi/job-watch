@@ -747,3 +747,7 @@
 - 2026-11-03 21:07 UTC [NEUTRAL] **Trimble** — AI Developer Intern (2 Locations) https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195
 - 2026-11-03 21:07 UTC [NEUTRAL] **Vizient ** — 2027 Summer Internship - Strategy Analytics Project (Chicago, IL 60607) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Strategy-Analytics-Project_36009R
 - 2026-11-03 21:07 UTC [NEUTRAL] **Vizient ** — 2027 Summer Internship - Digital Collaboration & Data Insights (Chicago, IL 60607) https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Digital-Collaboration---Data-Insights_35969R
+- 2026-11-03 22:01 UTC [NEUTRAL] **Red Bull** — Off Premise Insights Intern (Bogotá, Bogota, co) https://jobs.smartrecruiters.com/RedBull/744000159451349
+- 2026-11-03 22:01 UTC [NEUTRAL] **Samsung Research America** — 2027 Spring/Summer Intern, Agentic AI Solutions (665 Clyde Avenue, Mountain View,  CA, USA) https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002
+- 2026-11-03 22:01 UTC [NEUTRAL] **Schonfeld** — 2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern (Hong Kong, Hong Kong) https://job-boards.greenhouse.io/schonfeld/jobs/8350719
+- 2026-11-03 22:01 UTC [NEUTRAL] **USAFacts** — AI Product Intern (Bellevue, WA) https://job-boards.greenhouse.io/usafacts/jobs/4478239009
