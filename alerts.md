@@ -696,3 +696,8 @@
 - 2026-11-02 23:37 UTC [NEUTRAL] **KLA Corporation** — Software Engineer (AI/ML) Intern (2 Locations) https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2642125-1
 - 2026-11-02 23:37 UTC [NEUTRAL] **Merck** — 2027 Future Talent Program - Translational Genome Analytics - Co-op (5 Locations) https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---San-Diego-Science-Park-Road/XMLNAME-2027-Future-Talent-Program---Translational-Genome-Analytics---Co-op_R424008
 - 2026-11-02 23:37 UTC [NEUTRAL] **Tyson Foods** — Transportation Operations Year-Round Intern (Corporate 412 West - Springdale, Arkansas) https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Transportation-Operations-Year-Round-Intern_R0494027-2
+- 2026-11-03 01:34 UTC [NEUTRAL] **Egis Group** — Intern, Transportation (Kingston, ON, ca) https://jobs.smartrecruiters.com/EgisGroup/744000159223506
+- 2026-11-03 01:34 UTC [NEUTRAL] **GenMD** — Member of Technical Staff Intern, Applied AI (Palo Alto) https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c
+- 2026-11-03 01:34 UTC [NEUTRAL] **Samsung** — Intern, AI Application Engineer (Folsom, California, United States) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003
+- 2026-11-03 01:34 UTC [NEUTRAL] **Spring Venture Group** — Data Integrity Specialist Intern (Kansas City, MO, us) https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389
+- 2026-11-03 01:34 UTC [NEUTRAL] **The Voleon Group** — Research Intern (Berkeley, CA) https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9
