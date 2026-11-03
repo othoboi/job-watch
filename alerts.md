@@ -701,3 +701,6 @@
 - 2026-11-03 01:34 UTC [NEUTRAL] **Samsung** — Intern, AI Application Engineer (Folsom, California, United States) https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003
 - 2026-11-03 01:34 UTC [NEUTRAL] **Spring Venture Group** — Data Integrity Specialist Intern (Kansas City, MO, us) https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389
 - 2026-11-03 01:34 UTC [NEUTRAL] **The Voleon Group** — Research Intern (Berkeley, CA) https://jobs.ashbyhq.com/voleon/e182a100-56cb-4949-9f33-3c26786b41d9
+- 2026-11-03 06:55 UTC [NEUTRAL] **Fermilab** — Quantum Computing Internship for Physics Undergraduates Program (QCIPU) - Summer 2027 (Batavia) https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Computing-Internship-for-Physics-Undergraduates-Program--QCIPU----Summer-2027_R_010003
+- 2026-11-03 06:55 UTC [NEUTRAL] **Philips** — Physics & Algorithm Intern (Shenyang) https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenyang/Physics---Algorithm-Intern_593860
+- 2026-11-03 06:55 UTC [NEUTRAL] **Procter & Gamble (P&G)** — Dream Internship – Consumer Analytics, Insights & Research Intern (Bangkok) https://pg.wd5.myworkdayjobs.com/1000/job/Bangkok/Dream-Internship---Consumer-Analytics--Insights---Research-Intern_R000162074
